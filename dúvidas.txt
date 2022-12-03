@@ -1,0 +1,3 @@
+- rodar um arquivo .test.js por vez?
+- vale separar de modo que não use as reimplementações? (esperando os erros específicos, por ex)
+- mocks?

@@ -1,0 +1,14 @@
+[
+    {
+        "num": 0,
+        "resultado": false
+    },
+    {
+        "num": -9999,
+        "resultado": false
+    },
+    {
+        "num": 10000,
+        "resultado": "erro: numero fora dos limites"
+    }
+]

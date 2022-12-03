@@ -1,0 +1,14 @@
+o trabalho não está completo, falta a função oque use mocks
+
+- os arquivos com 200 linhas ou mais são geração aleatória no mockaroo ou no random.org
+	- as linhas cima da 200 no MOCK_DATA_PALINDROME foram colocados manualmente pensando em análise de valor limite
+
+- os arquivos MOCK_DATA_TWOSUM_ALGUMACOISA foram preenchidos manualmente pensando em análise de valor limite e separados pensando em partição por equivalência
+
+- não consegui pegar um problema que use 2 funções no leetcode, tentei entender mocks sozinha e não entendi, então foquei nesses dois por ora
+
+- teste.js é só pra testar funções que eu ia usar dentro dos testes que eu não ia ver as resultados muito bem
+
+- uma das funções de teste do twosum usa um matcher genérico
+
+- provavelmente vou tirar algumas dúvidas na aula de amanhã dia 29/11 sobre as minhas dificuldades.

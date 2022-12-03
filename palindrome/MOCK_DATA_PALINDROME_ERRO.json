@@ -1,0 +1,18 @@
+[
+    {
+        "num": -10000,
+        "resultado": "erro: numero fora dos limites"
+    },
+    {
+        "num": -10001,
+        "resultado": "erro: numero fora dos limites"
+    },
+    {
+        "num": 10001,
+        "resultado": "erro: numero fora dos limites"
+    },
+    {
+        "num": 30000,
+        "resultado": "erro: numero fora dos limites"
+    }
+]

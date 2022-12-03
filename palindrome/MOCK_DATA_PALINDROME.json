@@ -1,0 +1,802 @@
+[
+  {
+    "num": 43,
+    "resultado": false
+  },
+  {
+    "num": -983,
+    "resultado": false
+  },
+  {
+    "num": -776,
+    "resultado": false
+  },
+  {
+    "num": -472,
+    "resultado": false
+  },
+  {
+    "num": -418,
+    "resultado": false
+  },
+  {
+    "num": 614,
+    "resultado": false
+  },
+  {
+    "num": -787,
+    "resultado": false
+  },
+  {
+    "num": 250,
+    "resultado": false
+  },
+  {
+    "num": -693,
+    "resultado": false
+  },
+  {
+    "num": 742,
+    "resultado": false
+  },
+  {
+    "num": -677,
+    "resultado": false
+  },
+  {
+    "num": 775,
+    "resultado": false
+  },
+  {
+    "num": 201,
+    "resultado": false
+  },
+  {
+    "num": -129,
+    "resultado": false
+  },
+  {
+    "num": -783,
+    "resultado": false
+  },
+  {
+    "num": 699,
+    "resultado": false
+  },
+  {
+    "num": -903,
+    "resultado": false
+  },
+  {
+    "num": 647,
+    "resultado": false
+  },
+  {
+    "num": 280,
+    "resultado": false
+  },
+  {
+    "num": 360,
+    "resultado": false
+  },
+  {
+    "num": -486,
+    "resultado": false
+  },
+  {
+    "num": -977,
+    "resultado": false
+  },
+  {
+    "num": 832,
+    "resultado": false
+  },
+  {
+    "num": 605,
+    "resultado": false
+  },
+  {
+    "num": -318,
+    "resultado": false
+  },
+  {
+    "num": 851,
+    "resultado": false
+  },
+  {
+    "num": 770,
+    "resultado": false
+  },
+  {
+    "num": -936,
+    "resultado": false
+  },
+  {
+    "num": -759,
+    "resultado": false
+  },
+  {
+    "num": -786,
+    "resultado": false
+  },
+  {
+    "num": -781,
+    "resultado": false
+  },
+  {
+    "num": -662,
+    "resultado": false
+  },
+  {
+    "num": 121,
+    "resultado": true
+  },
+  {
+    "num": 200,
+    "resultado": false
+  },
+  {
+    "num": -69,
+    "resultado": false
+  },
+  {
+    "num": -469,
+    "resultado": false
+  },
+  {
+    "num": 96,
+    "resultado": false
+  },
+  {
+    "num": 541,
+    "resultado": false
+  },
+  {
+    "num": 325,
+    "resultado": false
+  },
+  {
+    "num": 60,
+    "resultado": false
+  },
+  {
+    "num": 224,
+    "resultado": false
+  },
+  {
+    "num": 51,
+    "resultado": false
+  },
+  {
+    "num": 40,
+    "resultado": false
+  },
+  {
+    "num": -130,
+    "resultado": false
+  },
+  {
+    "num": 760,
+    "resultado": false
+  },
+  {
+    "num": -131,
+    "resultado": false
+  },
+  {
+    "num": 974,
+    "resultado": false
+  },
+  {
+    "num": 610,
+    "resultado": false
+  },
+  {
+    "num": 673,
+    "resultado": false
+  },
+  {
+    "num": -760,
+    "resultado": false
+  },
+  {
+    "num": 950,
+    "resultado": false
+  },
+  {
+    "num": 944,
+    "resultado": false
+  },
+  {
+    "num": 844,
+    "resultado": false
+  },
+  {
+    "num": -249,
+    "resultado": false
+  },
+  {
+    "num": 721,
+    "resultado": false
+  },
+  {
+    "num": -388,
+    "resultado": false
+  },
+  {
+    "num": 253,
+    "resultado": false
+  },
+  {
+    "num": -128,
+    "resultado": false
+  },
+  {
+    "num": -426,
+    "resultado": false
+  },
+  {
+    "num": -681,
+    "resultado": false
+  },
+  {
+    "num": 100,
+    "resultado": false
+  },
+  {
+    "num": 621,
+    "resultado": false
+  },
+  {
+    "num": -676,
+    "resultado": false
+  },
+  {
+    "num": 792,
+    "resultado": false
+  },
+  {
+    "num": -439,
+    "resultado": false
+  },
+  {
+    "num": -73,
+    "resultado": false
+  },
+  {
+    "num": -187,
+    "resultado": false
+  },
+  {
+    "num": -333,
+    "resultado": false
+  },
+  {
+    "num": -739,
+    "resultado": false
+  },
+  {
+    "num": 182,
+    "resultado": false
+  },
+  {
+    "num": -101,
+    "resultado": false
+  },
+  {
+    "num": 1018,
+    "resultado": false
+  },
+  {
+    "num": 758,
+    "resultado": false
+  },
+  {
+    "num": 922,
+    "resultado": false
+  },
+  {
+    "num": 88,
+    "resultado": true
+  },
+  {
+    "num": 770,
+    "resultado": false
+  },
+  {
+    "num": -574,
+    "resultado": false
+  },
+  {
+    "num": -14,
+    "resultado": false
+  },
+  {
+    "num": -454,
+    "resultado": false
+  },
+  {
+    "num": -49,
+    "resultado": false
+  },
+  {
+    "num": 235,
+    "resultado": false
+  },
+  {
+    "num": 226,
+    "resultado": false
+  },
+  {
+    "num": -882,
+    "resultado": false
+  },
+  {
+    "num": 159,
+    "resultado": false
+  },
+  {
+    "num": -283,
+    "resultado": false
+  },
+  {
+    "num": -132,
+    "resultado": false
+  },
+  {
+    "num": -152,
+    "resultado": false
+  },
+  {
+    "num": -131,
+    "resultado": false
+  },
+  {
+    "num": -103,
+    "resultado": false
+  },
+  {
+    "num": -865,
+    "resultado": false
+  },
+  {
+    "num": -1018,
+    "resultado": false
+  },
+  {
+    "num": -598,
+    "resultado": false
+  },
+  {
+    "num": 457,
+    "resultado": false
+  },
+  {
+    "num": -914,
+    "resultado": false
+  },
+  {
+    "num": -46,
+    "resultado": false
+  },
+  {
+    "num": 390,
+    "resultado": false
+  },
+  {
+    "num": -892,
+    "resultado": false
+  },
+  {
+    "num": 519,
+    "resultado": false
+  },
+  {
+    "num": 508,
+    "resultado": false
+  },
+  {
+    "num": -1000,
+    "resultado": false
+  },
+  {
+    "num": -67,
+    "resultado": false
+  },
+  {
+    "num": 63,
+    "resultado": false
+  },
+  {
+    "num": 376,
+    "resultado": false
+  },
+  {
+    "num": -717,
+    "resultado": false
+  },
+  {
+    "num": -457,
+    "resultado": false
+  },
+  {
+    "num": -77,
+    "resultado": false
+  },
+  {
+    "num": -911,
+    "resultado": false
+  },
+  {
+    "num": 720,
+    "resultado": false
+  },
+  {
+    "num": -315,
+    "resultado": false
+  },
+  {
+    "num": -927,
+    "resultado": false
+  },
+  {
+    "num": 886,
+    "resultado": false
+  },
+  {
+    "num": 711,
+    "resultado": false
+  },
+  {
+    "num": 101,
+    "resultado": true
+  },
+  {
+    "num": -725,
+    "resultado": false
+  },
+  {
+    "num": 153,
+    "resultado": false
+  },
+  {
+    "num": -394,
+    "resultado": false
+  },
+  {
+    "num": 911,
+    "resultado": false
+  },
+  {
+    "num": -587,
+    "resultado": false
+  },
+  {
+    "num": 388,
+    "resultado": false
+  },
+  {
+    "num": -749,
+    "resultado": false
+  },
+  {
+    "num": -27,
+    "resultado": false
+  },
+  {
+    "num": -197,
+    "resultado": false
+  },
+  {
+    "num": -949,
+    "resultado": false
+  },
+  {
+    "num": -486,
+    "resultado": false
+  },
+  {
+    "num": -393,
+    "resultado": false
+  },
+  {
+    "num": -684,
+    "resultado": false
+  },
+  {
+    "num": 856,
+    "resultado": false
+  },
+  {
+    "num": -452,
+    "resultado": false
+  },
+  {
+    "num": -916,
+    "resultado": false
+  },
+  {
+    "num": -958,
+    "resultado": false
+  },
+  {
+    "num": 1017,
+    "resultado": false
+  },
+  {
+    "num": -340,
+    "resultado": false
+  },
+  {
+    "num": -182,
+    "resultado": false
+  },
+  {
+    "num": 680,
+    "resultado": false
+  },
+  {
+    "num": 109,
+    "resultado": false
+  },
+  {
+    "num": 546,
+    "resultado": false
+  },
+  {
+    "num": -947,
+    "resultado": false
+  },
+  {
+    "num": 620,
+    "resultado": false
+  },
+  {
+    "num": -435,
+    "resultado": false
+  },
+  {
+    "num": 167,
+    "resultado": false
+  },
+  {
+    "num": 783,
+    "resultado": false
+  },
+  {
+    "num": 970,
+    "resultado": false
+  },
+  {
+    "num": 221,
+    "resultado": false
+  },
+  {
+    "num": 441,
+    "resultado": false
+  },
+  {
+    "num": -73,
+    "resultado": false
+  },
+  {
+    "num": 839,
+    "resultado": false
+  },
+  {
+    "num": 902,
+    "resultado": false
+  },
+  {
+    "num": -669,
+    "resultado": false
+  },
+  {
+    "num": -146,
+    "resultado": false
+  },
+  {
+    "num": -249,
+    "resultado": false
+  },
+  {
+    "num": 512,
+    "resultado": false
+  },
+  {
+    "num": -9,
+    "resultado": false
+  },
+  {
+    "num": -583,
+    "resultado": false
+  },
+  {
+    "num": 437,
+    "resultado": false
+  },
+  {
+    "num": -959,
+    "resultado": false
+  },
+  {
+    "num": -476,
+    "resultado": false
+  },
+  {
+    "num": -138,
+    "resultado": false
+  },
+  {
+    "num": 924,
+    "resultado": false
+  },
+  {
+    "num": 58,
+    "resultado": false
+  },
+  {
+    "num": -34,
+    "resultado": false
+  },
+  {
+    "num": -631,
+    "resultado": false
+  },
+  {
+    "num": -766,
+    "resultado": false
+  },
+  {
+    "num": -800,
+    "resultado": false
+  },
+  {
+    "num": -519,
+    "resultado": false
+  },
+  {
+    "num": -372,
+    "resultado": false
+  },
+  {
+    "num": 950,
+    "resultado": false
+  },
+  {
+    "num": -485,
+    "resultado": false
+  },
+  {
+    "num": -722,
+    "resultado": false
+  },
+  {
+    "num": -251,
+    "resultado": false
+  },
+  {
+    "num": 76,
+    "resultado": false
+  },
+  {
+    "num": -342,
+    "resultado": false
+  },
+  {
+    "num": 497,
+    "resultado": false
+  },
+  {
+    "num": 439,
+    "resultado": false
+  },
+  {
+    "num": 793,
+    "resultado": false
+  },
+  {
+    "num": 775,
+    "resultado": false
+  },
+  {
+    "num": -798,
+    "resultado": false
+  },
+  {
+    "num": -496,
+    "resultado": false
+  },
+  {
+    "num": -367,
+    "resultado": false
+  },
+  {
+    "num": 643,
+    "resultado": false
+  },
+  {
+    "num": 834,
+    "resultado": false
+  },
+  {
+    "num": 716,
+    "resultado": false
+  },
+  {
+    "num": -809,
+    "resultado": false
+  },
+  {
+    "num": -85,
+    "resultado": false
+  },
+  {
+    "num": -82,
+    "resultado": false
+  },
+  {
+    "num": -409,
+    "resultado": false
+  },
+  {
+    "num": -660,
+    "resultado": false
+  },
+  {
+    "num": -960,
+    "resultado": false
+  },
+  {
+    "num": 1012,
+    "resultado": false
+  },
+  {
+    "num": -347,
+    "resultado": false
+  },
+  {
+    "num": -616,
+    "resultado": false
+  },
+  {
+    "num": 384,
+    "resultado": false
+  },
+  {
+    "num": -1000,
+    "resultado": false
+  },
+  {
+    "num": 1019,
+    "resultado": false
+  },
+  {
+    "num": 534,
+    "resultado": false
+  },
+  {
+    "num": 885,
+    "resultado": false
+  },
+  {
+    "num": 762,
+    "resultado": false
+  },
+  {
+    "num": -372,
+    "resultado": false
+  },
+  {
+    "num": -197,
+    "resultado": false
+  },
+  {
+    "num": -201,
+    "resultado": false
+  },
+  {
+    "num": 212,
+    "resultado": true
+  }
+]
