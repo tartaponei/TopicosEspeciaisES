@@ -2,7 +2,7 @@ const fs = require("fs");
 const ispalindromeTest = require("./ispalindromeTest");
 //var arquivo = require("./palindrome/MOCK_DATA_PALINDROME.json");
 
-const arquivo = fs.readFileSync("./palindrome/MOCK_DATA_PALINDROME.json", "utf8")
+const arquivo = fs.readFileSync("./ispalindrome/MOCK_DATA_PALINDROME.json", "utf8")
 
 arquivoObj = JSON.parse(arquivo);
 
