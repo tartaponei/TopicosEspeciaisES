@@ -1,8 +1,8 @@
 const fs = require("fs");
-const comum = require("./comum.js");
+const comum = require("../comum.js");
 const twosumTest = require("./twosumTest");
 
-const arquivo = fs.readFileSync("./twosum/MOCK_DATA_TWOSUM.json", "utf8")
+const arquivo = fs.readFileSync("./Tarefa 1/twosum/MOCK_DATA_TWOSUM.json", "utf8")
 
 arquivoObj = JSON.parse(arquivo);
 
@@ -42,7 +42,7 @@ for (let i = 0; i < 200; i++) {
     console.log("i é " + i);
 }
 
-fs.writeFile("./twosum/MOCK_DATA_TWOSUM.json", JSON.stringify(arquivoObj, null, 1), err => {
+fs.writeFile("./Tarefa 1/twosum/MOCK_DATA_TWOSUM.json", JSON.stringify(arquivoObj, null, 1), err => {
     if(err) throw err;
     console.log("Adicionados");
 });

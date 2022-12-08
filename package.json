@@ -1,0 +1,25 @@
+{
+  "name": "topicosespeciaises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tartaponei/TopicosEspeciaisES.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tartaponei/TopicosEspeciaisES/issues"
+  },
+  "homepage": "https://github.com/tartaponei/TopicosEspeciaisES#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

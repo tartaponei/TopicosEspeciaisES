@@ -1,0 +1,2 @@
+- o teste com mock em combinationsum funcionou
+- não consegui fazer o código pra preencher os dados aleatórios de combinationsum funcionar pra conseguir testar
