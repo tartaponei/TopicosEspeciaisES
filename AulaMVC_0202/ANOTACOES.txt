@@ -1,0 +1,10 @@
+CONTROLE:
+  - validar dados de entrada
+  - lógica
+  - direcionar pros modelos, acesso à camada de modelo
+  - resposta / visão (template)
+
+  - cada entidade tem uma rota?
+
+MODELO:
+  - consultas sql
